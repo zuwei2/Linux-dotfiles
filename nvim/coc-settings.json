@@ -1,0 +1,12 @@
+{
+	"rust.wait_to_build": 0,
+	"coc.preferences.formatOnSaveFiletypes": [
+		"rust",
+		"cpp",
+		"py",
+		"c",
+		"cs",
+		"json"
+	],
+	"coc.source.OmniSharp.enable": true
+}
